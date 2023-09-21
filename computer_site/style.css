@@ -1,0 +1,110 @@
+img{border: 2px solid white;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+.cpu-image {
+    float: right; /* Разместить изображение справа от текста */
+    margin-right: 15px; /* Отступ между изображением и текстом */
+    margin-top: -70px;
+    border: 2px solid white;
+    padding: 10px;}
+
+.h{
+    text-align: center;
+    }
+
+a{
+    color: aliceblue;
+
+}
+
+a:hover{
+    color: darkgray;
+    
+}
+
+figure{
+    border: 2px solid gray;
+    
+    padding: 10px;
+    width: 480;
+    color: white;
+    text-align: center;
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.water_cooler figure{
+    width: 725;
+    padding: 10px;
+    color: white;
+    font-size: 18;
+    margin-left: 580px;
+    margin-top: -462px;
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hot_cpu{
+    
+    width: 570;
+    float: right;
+    margin-top: -450;
+}
+
+.hdd figure{
+    
+    border: 2px solid gray;
+    padding: 10px;
+    width: 625;
+    color: white;
+    text-align: center;
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hdd img{
+    border: 0px;
+}
+
+.ssd figure{
+    margin-left: 700;
+    margin-top: -513;
+    border: 2px solid gray;
+    padding: 10px;
+    width: 600;
+    color: white;
+    text-align: center;
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ssd img{
+    border: 0;
+    width: 406;
+    
+}
+
+.ssd_m2 figure{
+    margin-left: 1335;
+    margin-top: -513;
+    border: 2px solid gray;
+    padding: 0px;
+    width: 550;
+    color: white;
+    text-align: center;
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ssd_m2 img{
+    border: 0;
+    width:550;
+
+    
+}
